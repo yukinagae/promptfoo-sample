@@ -64,6 +64,7 @@ https://github.com/yukinagae/promptfoo-sample
 
 ```bash
 $ mkdir promptfoo-sample
+$ cd promptfoo-sample
 ```
 
 - promptfoo の CLI をインストール
